@@ -15,5 +15,6 @@ Accomplish the below two tasks:
 - Make a new python environment.
 - Install apache-airflow, apache-beam, pandas.
 - Use conda to install geopandas.
+- Ensure the python files are in folder called `dags`.
 - Run 'airflow scheduler' and 'airflow webserver' in two different terminal windows after you activate the created python environment.
 - Type `http://localhost:8080/` into the web browser to run the dag files.
